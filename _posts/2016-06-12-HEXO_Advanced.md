@@ -20,7 +20,7 @@ HEXO接近是最近有一些朋友提出的问题，然后我做了总结，如�
 是的, 我大`Hexo`同样可以解决上面三个问题, 那就是使用git。关于如何使用 `Hexo` 搭建博客请看我另一篇文章[HEXO搭建个人博客](http://www.baixin.io/2015/08/25/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/), 如果搭建的过程中出现了问题, 我们可以交流交流。现在我假设你已经能基本使用 `Hexo` 了, 接下来就看看如何来管理博客。
 
 ## 使用git管理博客
-[Blog-Growing](https://github.com/leopardpan/Blog-Growing)是我管理博客的仓库地址。结构大致是:
+[Blog-Growing](https://github.com/yonyong/Blog-Growing)是我管理博客的仓库地址。结构大致是:
 
 > -- Blog-Growing     
 > 　　|-- .git     
@@ -78,4 +78,4 @@ HEXO接近是最近有一些朋友提出的问题，然后我做了总结，如�
 
 <br>
 
-转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/06/HEXO_Advanced/)
+转载请注明：[杨德的博客](http://yonyong.github.io) » [点击阅读原文](http://yonyong.github.io/2016/06/HEXO_Advanced/)
